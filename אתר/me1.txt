@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>אלון קוטב - מאמן ומנחה סדנאות - מנהיגות ותקשורת</title>
+    <style>
+        body { font-family: 'Open Sans', sans-serif; direction: rtl; text-align: right; margin: 0; padding: 0; background: #f4f4f4; color: #333; }
+        header { background: #ffffff; color: #222; text-align: center; padding: 40px 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        nav { text-align: center; padding: 15px; background: #eef0f3; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        nav a { color: #333; margin: 0 15px; text-decoration: none; font-weight: bold; font-size: 18px; }
+        section { padding: 40px; margin: 40px auto; background: white; border-radius: 5px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); max-width: 800px; }
+        h2 { color: #1e88e5; font-size: 26px; margin-bottom: 20px; }
+        ul { list-style-type: none; padding: 0; }
+        ul li { background: #f8f9fa; margin: 10px 0; padding: 15px; border-radius: 5px; border-left: 5px solid #1e88e5; }
+        footer { text-align: center; padding: 20px; background: #222; color: white; margin-top: 40px; }
+        img.profile { max-width: 180px; display: block; margin: 0 auto 20px; border-radius: 50%; }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="BCbytut_logo_slogan_high_res.jpg" alt="לוגו BC by TUT" style="max-width: 150px;">
+        <h1>אלון קוטב</h1>
+        <p>מאמן ומנחה סדנאות - מנהיגות ותקשורת</p>
+    </header>
+    <nav>
+        <a href="#about">אודות</a>
+        <a href="#breakthrough-processes">תהליכים פורצי דרך</a>
+        <a href="#clients">לקוחות</a>
+        <a href="#media">סרטונים ופודקאסטים</a>
+        <a href="#contact">צור קשר</a>
+        <a href="#blog">בלוג</a>
+    </nav>
+    <section id="about">
+        <img src="oren_cohen_photo.jpg" alt="תמונה של אלון קוטב" class="profile">
+        <h2>אודות</h2>
+        <p>אלון קוטב הוא מאמן ומנחה סדנאות, מגדל ומטפח מנהיגים...</p>
+    </section>
+    <section id="breakthrough-processes">
+        <h2>תהליכים פורצי דרך</h2>
+        <ul>
+            <li><b>פרויקט חולה מאמן חולה</b> -...</li>
+            <li><b>קורסי הכשרת מאמנים</b> -...</li>
+        </ul>
+    </section>
+    <section id="clients">
+        <h2>לקוחות</h2>
+        <p>אלון קוטב מלווה חברות וארגונים מהמובילים במשק...</p>
+    </section>
+    <section id="media">
+        <h2>סרטונים ופודקאסטים</h2>
+        <p><b>וידאו:</b>...</p>
+    </section>
+    <section id="contact">
+        <h2>צור קשר</h2>
+        <p>לפרטים נוספים, התקשרו ל-054-4776000.</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 אלון קוטב - כל הזכויות שמורות</p>
+        <section id="blog">
+        <h2>בלוג</h2>
+        <p>כאן תוכל לקרוא מאמרים...</p>
+    </section>
+    </footer>
+</body>
+</html>
